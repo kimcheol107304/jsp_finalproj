@@ -136,7 +136,7 @@ $(function(){
                      style="background: blue;">
                      <img src="<%=cp%>/image/btn.png"
                         style="width: 50px; height: 50px; position: relative; top: 10pk;">
-                     <div>등록하기</div>
+                     <div>등록하기기기긱기긱ddddd</div>
                   </button>
                </div>
             
